@@ -1,4 +1,4 @@
-# Teste-Pr-tico-Drupal_v2
+# Teste-Pr-tico-Drupal
 
 # Indice 
 
@@ -22,7 +22,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 ```bash
 # Clonar Repositorio
-$ git clone https://github.com/laynasc/Teste-Pr-tico-Drupal_v2
+$ git clone https://github.com/laynasc/Teste-Pr-tico-Drupal
 
 # Entrar no Diretorio
 $ cd my_site_name_dir
